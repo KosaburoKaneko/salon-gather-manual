@@ -48,15 +48,19 @@ Ringすると相手に効果音が流れて気づいてくれます。
 ## デコレーションする方法
 ### 配置する方法
 ①画面左側のハンマーマークを押してください。
+
 ②「Open object picker」を押してください。
 ![decoration-step-1](/img/decoration-step-1.png)
 
 Object pickerが開きます。
 ①配置したいObjectを選択してください。
+
 ②向きを変えたい場合は、ここで向きを変えてください。Objectによっては色も変えられます。
+
 ③Selectボタンを押して、好きなところに配置してください。
 ![decoration-step-2](/img/decoration-step-2.png)
 ### 削除する方法
 ①Eraseを押してください。
+
 ②消したいObjectを押すと消えます。
 ![decoration-remove](/img/decoration-remove.png)
