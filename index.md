@@ -53,6 +53,7 @@ Ringすると相手に効果音が流れて気づいてくれます。
 ![decoration-step-1](/img/decoration-step-1.png)
 
 Object pickerが開きます。
+
 ①配置したいObjectを選択してください。
 
 ②向きを変えたい場合は、ここで向きを変えてください。Objectによっては色も変えられます。
